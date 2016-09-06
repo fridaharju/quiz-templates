@@ -1,0 +1,35 @@
+
+body {
+	background: #ffffff;
+font: 12 pt/1.4 "Metric Regular", "Metric"
+, serif;
+
+}
+h1 {
+	color: #670D91;
+	text-align: center;
+
+}
+h2 {
+	color: #893BAD;
+	text-align: center;
+}
+h3 {
+	color: #893BAD;
+	text-align: center;
+}
+.result {
+	color: #BB8AD1;
+	text-align: center;
+} 
+a {
+	color: #BB8AD1;
+	text-align: center; 
+	display: block;
+}
+P {border-bottom: 1px solid #FF9999;
+padding-bottom: 5px;
+}
+.resulttext {
+	text-align: center;
+}
